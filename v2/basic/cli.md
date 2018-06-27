@@ -58,7 +58,7 @@ config 参数为额外配置文件的路径，从运行命令的当前路径开�
 
 * -p --port
 
-    指定端口启动正式服务器(默认 3000)。如 `lavas dev --port 8000`
+    指定端口启动正式服务器(默认 3000)。如 `lavas start --port 8000`
 
 ## lavas static
 
